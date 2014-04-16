@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5A7F445D-0175-46A4-A9AF-48978147A850</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FontTableView</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C9AA3A4E-3DCE-4248-9B9F-035284AFF38E</key>
+		<string>https://github.com/PaulSolt/AutoLayoutForUITableViewCell.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FontTableView/FontTableView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C9AA3A4E-3DCE-4248-9B9F-035284AFF38E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/PaulSolt/AutoLayoutForUITableViewCell.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C9AA3A4E-3DCE-4248-9B9F-035284AFF38E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C9AA3A4E-3DCE-4248-9B9F-035284AFF38E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AutoLayoutForUITableViewCell</string>
+		</dict>
+	</array>
+</dict>
+</plist>
