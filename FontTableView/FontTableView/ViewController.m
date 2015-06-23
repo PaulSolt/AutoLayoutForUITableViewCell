@@ -43,6 +43,9 @@
                      @"Be a yardstick of quality. Some people aren't used to an environment where excellence is expected. - Steve Jobs",
                      @"Innovation distinguishes between a leader and a follower. -Steve Jobs"] mutableCopy];
     
+ 
+    // Use iOS 8 new auto sizing feature for heights (don't need to calculate yourself)
+//    _tableView.rowHeight = UITableViewAutomaticDimension;
     
 }
 
@@ -65,6 +68,10 @@
     
 }
 
+// NOTE: in iOS 8 you can use the automatic height calculations from AutoLayout,
+//  and you can avoid writing this height method. Just comment it out, and uncomment
+//  the line in viewDidLoad for
+//  _tableView.rowHeight = UITableViewAutomaticDimension;
 - (CGFloat)tableView:(UITableView *)tableView heightForRowAtIndexPath:(NSIndexPath *)indexPath {
     
     // Calculate a height based on a cell
